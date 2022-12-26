@@ -3,8 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/chil558/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chil558/azure-network-protocols)
+   - [Creating a Virtual Machine With Azure](https://github.com/chil558/azure-vm)
+   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/chil558/configure-ad)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chil558/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/chil558/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/chil558/post-install-config)
